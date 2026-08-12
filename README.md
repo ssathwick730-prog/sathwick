@@ -1,4 +1,4 @@
 # sathwick
 this is my first repository
 <br>
-Author-Sathwick.S
+Author-Sathwick.S (engineer)
